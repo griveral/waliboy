@@ -1,0 +1,15 @@
+note: start mongod first
+
+1. create new project (ex. mongodb_example)
+2. create new directory ( "public" )
+3. create new file ( "app.js" )
+4  Copy and paste  content of express server skeleton (server_skel.js) to app.js
+5. npm init
+6. npm install express --save
+7. npm install body-parser --save
+8. npm install mongojs --save          ( https://www.npmjs.com/package/mongojs#dbcollectioninsertdocordocs-callback )
+9. test if server is running  # node app.js
+10. Populate codes for Routing 
+11. Populate codes for Helper functions
+12. Test APIs using Chrome Postam plugin
+
